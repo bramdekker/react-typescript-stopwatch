@@ -1,0 +1,45 @@
+.lapDisplay {
+    margin: 0;
+    text-align: left;
+    width: 27vw;
+    position: absolute;
+    right: 25px;
+    top: 130px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: darkolivegreen;
+}
+
+.lapDisplay:after {
+    position: absolute;
+    content: "";
+    bottom: -15px;
+    height: 15px;
+    width: 1px;
+}
+
+.lapDisplay Button {
+    margin: 0;
+    position: absolute;
+    top: -70px;
+    right: 0;
+}
+
+.lapDisplay h3 {
+    padding-left: 2vw;
+    line-height: 0px;
+    font-size: 28px;
+}
+
+.lapDisplay p {
+    font-size: 18px;
+    padding: 0.75vw 2vw;
+    margin: 0;
+    background-color: darkseagreen;
+    border-top: 1px solid black;
+}
+
+.lapDisplay p:last-child {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}

@@ -1,3 +1,8 @@
+# React Stopwatch in Typescript
+<img src="/images/react-typescript-stopwatch.png">
+
+Idea from: [https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Stopwatch-App.md](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Stopwatch-App.md).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
